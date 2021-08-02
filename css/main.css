@@ -1,0 +1,16 @@
+body{
+    padding: 25rem;
+    margin: 10px;
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, -27px 50px 35px -30px rgba(0,0,0,0); 
+box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, -27px 50px 35px -30px rgba(0,0,0,0);
+}
+.dados{
+    margin: 10px;
+}
+col{
+    padding: 29px;
+}
+.graficos{
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, -27px 50px 35px -30px rgba(0,0,0,0); 
+box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, -27px 50px 35px -30px rgba(0,0,0,0);
+}
